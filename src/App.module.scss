@@ -1,0 +1,13 @@
+@import "./styles/mixins";
+
+.appWpr {
+  height: 100%;
+
+  .appWpr__carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 20px;
+}
+}
